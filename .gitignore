@@ -1,0 +1,10 @@
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.swp
+*.suo
+*.userprefs
+.vs/
+.env
